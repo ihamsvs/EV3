@@ -174,3 +174,7 @@ C:\Users\flore\Source\Repos\EV3\Ev3\obj\Debug\Ev3.csproj.CoreCompileInputs.cache
 C:\Users\flore\Source\Repos\EV3\Ev3\obj\Debug\Ev3.csproj.CopyComplete
 C:\Users\flore\Source\Repos\EV3\Ev3\obj\Debug\Ev3.dll
 C:\Users\flore\Source\Repos\EV3\Ev3\obj\Debug\Ev3.pdb
+C:\Users\OMEN\source\repos\Ev3\Ev3\bin\EntityFramework.dll
+C:\Users\OMEN\source\repos\Ev3\Ev3\bin\EntityFramework.SqlServer.dll
+C:\Users\OMEN\source\repos\Ev3\Ev3\bin\EntityFramework.xml
+C:\Users\OMEN\source\repos\Ev3\Ev3\bin\EntityFramework.SqlServer.xml

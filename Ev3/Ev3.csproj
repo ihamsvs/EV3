@@ -163,6 +163,11 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Img\muscular-build-man-making-effort-while-weightlifting-during-cross-training-gym.jpg" />
+    <Content Include="Img\pexels-johnny-garcia-2011383.jpg" />
+    <Content Include="Img\pexels-rodnae-productions-8401904.jpg" />
+    <Content Include="Img\pexels-viridiana-o-rivera-14598866.jpg" />
+    <Content Include="Img\young-african-woman-running-isolated-white-studio-background-one-female-runner-jogger-silhouette-jogging-athlete.jpg" />
     <Content Include="ModeloGymfit.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>ModeloGymfit.edmx</DependentUpon>
